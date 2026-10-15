@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ncaia27.esi-sba.dz/sitemap.xml
+Sitemap: https://nc2ai27.esi-sba.dz/sitemap.xml
